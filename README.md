@@ -1,6 +1,6 @@
 # CareerConnect
 
-> 🌐 **Live demo:** [ADD YOUR VERCEL LINK HERE](https://your-project.vercel.app)
+> 🌐 **Live demo:** https://career-connect-five-theta.vercel.app/
 
 CareerConnect is a full-stack job portal where companies can post openings and job seekers can browse, search and apply for them. It was built as my final assignment, using the MERN stack with JWT-based authentication.
 
